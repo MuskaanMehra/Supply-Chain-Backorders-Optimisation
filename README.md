@@ -1,4 +1,4 @@
-# Backoreders Prediction in Supply Chain
+# Backorders Prediction in Supply Chain
 
 The dataset for the project was imported from Kaggle containing 23 variables and 16 lac rows.
 
